@@ -76,7 +76,6 @@ gh_panic_notifier.ko
 gh_rm_booster.ko
 gh_rm_drv.ko
 gh_tlmm_vm_mem_access.ko
-gh_virt_wdt.ko
 gic_intr_routing.ko
 glink_pkt.ko
 glink_probe.ko
@@ -172,7 +171,6 @@ qcom_cpu_vendor_hooks.ko
 qcom-dcvs.ko
 qcom-dload-mode.ko
 qcom_dma_heaps.ko
-qcom_edac.ko
 qcom_glink.ko
 qcom_glink_smem.ko
 qcom_glink_spss.ko
@@ -211,7 +209,6 @@ qcom_sysmon.ko
 qcom_tsens.ko
 qcom-vadc-common.ko
 qcom_va_minidump.ko
-qcom_wdt_core.ko
 qfprom-sys.ko
 qmi_helpers.ko
 qnoc-cliffs.ko

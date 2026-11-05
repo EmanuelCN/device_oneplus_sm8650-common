@@ -26,7 +26,6 @@ gh_dbl.ko
 gh_mem_notifier.ko
 gh_msgq.ko
 gh_rm_drv.ko
-gh_virt_wdt.ko
 gic_intr_routing.ko
 gpucc-pineapple.ko
 gunyah_loader.ko
@@ -82,7 +81,6 @@ qcom-scm.ko
 qcom-spmi-pmic.ko
 qcom_tsens.ko
 qcom_va_minidump.ko
-qcom_wdt_core.ko
 qnoc-cliffs.ko
 qnoc-pineapple.ko
 qnoc-qos.ko

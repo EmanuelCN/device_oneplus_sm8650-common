@@ -98,7 +98,6 @@ mac80211.ko
 machine_dlkm.ko
 max31760_fan.ko
 mbhc_dlkm.ko
-mem-hooks.ko
 memlat.ko
 mhi_dev_satellite.ko
 mhi_dev_uci.ko
@@ -147,7 +146,6 @@ qcedev-mod_dlkm.ko
 qcom-cpufreq-hw-debug.ko
 qcom_cpuss_sleep_stats.ko
 qcom-dload-mode.ko
-qcom_edac.ko
 qcom_glink.ko
 qcom_glink_smem.ko
 qcom_glink_spss.ko
